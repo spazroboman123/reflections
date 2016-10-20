@@ -32,6 +32,13 @@ What is the result of merging two branches together?
 
  it takes changes made separatly and combines them 
 
+ What are the pros and cons of Git’s automatic 
+ merging vs. always doing merges manually?
+
+it is easy to apply small changes but you still get
+control
+
+
 
 
 
