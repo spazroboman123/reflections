@@ -27,6 +27,13 @@ structure?
 
 it provides a visual aid to see the flow of commits
 
+What is the result of merging two branches together?
+ Why do we represent it in the diagram the way we do?
+
+ it takes changes made separatly and combines them 
+
+
+
 
 
 
