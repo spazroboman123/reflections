@@ -16,4 +16,10 @@ have one commit per logical change?
 
 you can check to see if there are many differences
 
+What are some situations when branches would be 
+helpful in keeping your history organized? How 
+would branches help?
+
+Testing new features or supporting different languages
+
 
