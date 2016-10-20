@@ -1,0 +1,14 @@
+What happens when you initialize a repository? 
+Why do you need to do it?
+
+it creats a .git folder with all the info needed
+you need to do it to keep track of your project
+
+How is the staging area different from the working 
+directory and the repository? What value do you 
+think it offers?
+
+it allows me to check that i am commiting the right 
+things 
+
+
