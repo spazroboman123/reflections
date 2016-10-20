@@ -22,4 +22,11 @@ would branches help?
 
 Testing new features or supporting different languages
 
+How do the diagrams help you visualize the branch 
+structure?
+
+it provides a visual aid to see the flow of commits
+
+
+
 
